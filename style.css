@@ -1052,12 +1052,12 @@ h4 {
 
 @media (max-width: 390px) {
     p {
-        font: 14px;
+        font-size: 14px;
     }
 }
 
 @media (max-width: 390px) {
-    .img-responsive {
+    .img-responsive-home {
         display: unset;
         width: 270px;
     }
